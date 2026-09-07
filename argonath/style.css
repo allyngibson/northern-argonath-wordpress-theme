@@ -1,0 +1,17 @@
+/*
+	Theme Name:     The Northern Argonath
+	Description:    These ambitious, and ultimately abandoned, statues were to be as grand as the Southern Argonath on the River Anduin. They were being built when the Northern Kingdom collapsed and were never finished. The shapes emerging from the rock begin to depict Elendil, the former High King of Men, and Gil-Galad, the former Elf-King, defending the northern kingdom from the threat of Sauron.
+	Author:         Allyn Gibson
+	Author URI:     http: //www.allyngibson.net/
+	Template:       Argo
+	Version:        1.0
+*/
+
+/* base Argo stylesheets */
+
+@import url("../Argo/css/960.css");
+@import url("../Argo/css/foundation.css");
+
+/* custom Argonath stylesheets */
+
+@import url(css/argonath.css);
